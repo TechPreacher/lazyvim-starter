@@ -6,3 +6,7 @@ debug
 foo.*
 *.log
 data
+
+# Mac Stuff
+.DS_Store
+
